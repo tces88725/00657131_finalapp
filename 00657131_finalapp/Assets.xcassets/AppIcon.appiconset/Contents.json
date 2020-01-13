@@ -89,6 +89,71 @@
       "idiom" : "ios-marketing",
       "size" : "1024x1024",
       "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "1.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "2.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "3.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "4.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "5.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "6.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "7.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "8.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "9.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "10.png",
+      "unassigned" : true,
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "11.png",
+      "unassigned" : true,
+      "scale" : "1x"
     }
   ],
   "info" : {

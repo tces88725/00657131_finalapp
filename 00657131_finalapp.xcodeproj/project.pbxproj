@@ -13,6 +13,26 @@
 		4376238E23CC763B001D2914 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4376238D23CC763B001D2914 /* Assets.xcassets */; };
 		4376239123CC763B001D2914 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4376239023CC763B001D2914 /* Preview Assets.xcassets */; };
 		4376239423CC763B001D2914 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4376239223CC763B001D2914 /* LaunchScreen.storyboard */; };
+		4376239C23CC7C2E001D2914 /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4376239B23CC7C2E001D2914 /* AppView.swift */; };
+		4376239E23CC7C91001D2914 /* UsedList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4376239D23CC7C91001D2914 /* UsedList.swift */; };
+		437623A023CC7CAB001D2914 /* UsedRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4376239F23CC7CAB001D2914 /* UsedRow.swift */; };
+		437623A223CC7E6A001D2914 /* UsedDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623A123CC7E6A001D2914 /* UsedDetail.swift */; };
+		437623A523CC8033001D2914 /* DataSave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623A423CC8033001D2914 /* DataSave.swift */; };
+		437623A723CC81A5001D2914 /* FlightList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623A623CC81A5001D2914 /* FlightList.swift */; };
+		437623A923CC8293001D2914 /* FlightRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623A823CC8293001D2914 /* FlightRow.swift */; };
+		437623AB23CC8327001D2914 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623AA23CC8327001D2914 /* Data.swift */; };
+		437623AD23CC884E001D2914 /* FlightDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623AC23CC884E001D2914 /* FlightDetail.swift */; };
+		437623AF23CC89C1001D2914 /* chiayiList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623AE23CC89C1001D2914 /* chiayiList.swift */; };
+		437623B123CC89D6001D2914 /* hualienList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623B023CC89D6001D2914 /* hualienList.swift */; };
+		437623B323CC89F7001D2914 /* kaohsiungList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623B223CC89F7001D2914 /* kaohsiungList.swift */; };
+		437623B523CC8A10001D2914 /* kinmenList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623B423CC8A10001D2914 /* kinmenList.swift */; };
+		437623B723CC8A2A001D2914 /* matsuList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623B623CC8A2A001D2914 /* matsuList.swift */; };
+		437623B923CC8A41001D2914 /* pingtungList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623B823CC8A41001D2914 /* pingtungList.swift */; };
+		437623BB23CC8A53001D2914 /* sungshanList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623BA23CC8A53001D2914 /* sungshanList.swift */; };
+		437623BD23CC8A64001D2914 /* taichungList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623BC23CC8A64001D2914 /* taichungList.swift */; };
+		437623BF23CC8A71001D2914 /* taitungList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623BE23CC8A71001D2914 /* taitungList.swift */; };
+		437623C123CC8A97001D2914 /* tainanList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623C023CC8A97001D2914 /* tainanList.swift */; };
+		437623C323CC8B07001D2914 /* Editor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437623C223CC8B07001D2914 /* Editor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +44,26 @@
 		4376239023CC763B001D2914 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4376239323CC763B001D2914 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4376239523CC763B001D2914 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4376239B23CC7C2E001D2914 /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		4376239D23CC7C91001D2914 /* UsedList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedList.swift; sourceTree = "<group>"; };
+		4376239F23CC7CAB001D2914 /* UsedRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedRow.swift; sourceTree = "<group>"; };
+		437623A123CC7E6A001D2914 /* UsedDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedDetail.swift; sourceTree = "<group>"; };
+		437623A423CC8033001D2914 /* DataSave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSave.swift; sourceTree = "<group>"; };
+		437623A623CC81A5001D2914 /* FlightList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightList.swift; sourceTree = "<group>"; };
+		437623A823CC8293001D2914 /* FlightRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightRow.swift; sourceTree = "<group>"; };
+		437623AA23CC8327001D2914 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		437623AC23CC884E001D2914 /* FlightDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightDetail.swift; sourceTree = "<group>"; };
+		437623AE23CC89C1001D2914 /* chiayiList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chiayiList.swift; sourceTree = "<group>"; };
+		437623B023CC89D6001D2914 /* hualienList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hualienList.swift; sourceTree = "<group>"; };
+		437623B223CC89F7001D2914 /* kaohsiungList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kaohsiungList.swift; sourceTree = "<group>"; };
+		437623B423CC8A10001D2914 /* kinmenList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kinmenList.swift; sourceTree = "<group>"; };
+		437623B623CC8A2A001D2914 /* matsuList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = matsuList.swift; sourceTree = "<group>"; };
+		437623B823CC8A41001D2914 /* pingtungList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pingtungList.swift; sourceTree = "<group>"; };
+		437623BA23CC8A53001D2914 /* sungshanList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sungshanList.swift; sourceTree = "<group>"; };
+		437623BC23CC8A64001D2914 /* taichungList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taichungList.swift; sourceTree = "<group>"; };
+		437623BE23CC8A71001D2914 /* taitungList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = taitungList.swift; sourceTree = "<group>"; };
+		437623C023CC8A97001D2914 /* tainanList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tainanList.swift; sourceTree = "<group>"; };
+		437623C223CC8B07001D2914 /* Editor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Editor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +96,29 @@
 		4376238623CC7637001D2914 /* 00657131_finalapp */ = {
 			isa = PBXGroup;
 			children = (
+				437623AA23CC8327001D2914 /* Data.swift */,
+				4376239B23CC7C2E001D2914 /* AppView.swift */,
+				437623A823CC8293001D2914 /* FlightRow.swift */,
+				437623AC23CC884E001D2914 /* FlightDetail.swift */,
+				4376239D23CC7C91001D2914 /* UsedList.swift */,
+				4376239F23CC7CAB001D2914 /* UsedRow.swift */,
+				437623A123CC7E6A001D2914 /* UsedDetail.swift */,
 				4376238723CC7637001D2914 /* AppDelegate.swift */,
 				4376238923CC7637001D2914 /* SceneDelegate.swift */,
 				4376238B23CC7637001D2914 /* ContentView.swift */,
+				437623A423CC8033001D2914 /* DataSave.swift */,
+				437623C223CC8B07001D2914 /* Editor.swift */,
+				437623A623CC81A5001D2914 /* FlightList.swift */,
+				437623AE23CC89C1001D2914 /* chiayiList.swift */,
+				437623B023CC89D6001D2914 /* hualienList.swift */,
+				437623B623CC8A2A001D2914 /* matsuList.swift */,
+				437623BE23CC8A71001D2914 /* taitungList.swift */,
+				437623C023CC8A97001D2914 /* tainanList.swift */,
+				437623BC23CC8A64001D2914 /* taichungList.swift */,
+				437623BA23CC8A53001D2914 /* sungshanList.swift */,
+				437623B823CC8A41001D2914 /* pingtungList.swift */,
+				437623B423CC8A10001D2914 /* kinmenList.swift */,
+				437623B223CC89F7001D2914 /* kaohsiungList.swift */,
 				4376238D23CC763B001D2914 /* Assets.xcassets */,
 				4376239223CC763B001D2914 /* LaunchScreen.storyboard */,
 				4376239523CC763B001D2914 /* Info.plist */,
@@ -146,9 +206,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				437623A023CC7CAB001D2914 /* UsedRow.swift in Sources */,
+				437623A223CC7E6A001D2914 /* UsedDetail.swift in Sources */,
+				437623C323CC8B07001D2914 /* Editor.swift in Sources */,
+				437623A523CC8033001D2914 /* DataSave.swift in Sources */,
+				4376239C23CC7C2E001D2914 /* AppView.swift in Sources */,
+				437623B123CC89D6001D2914 /* hualienList.swift in Sources */,
+				437623AB23CC8327001D2914 /* Data.swift in Sources */,
+				4376239E23CC7C91001D2914 /* UsedList.swift in Sources */,
+				437623AD23CC884E001D2914 /* FlightDetail.swift in Sources */,
 				4376238823CC7637001D2914 /* AppDelegate.swift in Sources */,
+				437623B523CC8A10001D2914 /* kinmenList.swift in Sources */,
+				437623A923CC8293001D2914 /* FlightRow.swift in Sources */,
+				437623BB23CC8A53001D2914 /* sungshanList.swift in Sources */,
+				437623B323CC89F7001D2914 /* kaohsiungList.swift in Sources */,
 				4376238A23CC7637001D2914 /* SceneDelegate.swift in Sources */,
+				437623B923CC8A41001D2914 /* pingtungList.swift in Sources */,
+				437623AF23CC89C1001D2914 /* chiayiList.swift in Sources */,
+				437623BF23CC8A71001D2914 /* taitungList.swift in Sources */,
+				437623BD23CC8A64001D2914 /* taichungList.swift in Sources */,
+				437623B723CC8A2A001D2914 /* matsuList.swift in Sources */,
 				4376238C23CC7637001D2914 /* ContentView.swift in Sources */,
+				437623C123CC8A97001D2914 /* tainanList.swift in Sources */,
+				437623A723CC81A5001D2914 /* FlightList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
